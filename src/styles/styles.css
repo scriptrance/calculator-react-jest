@@ -1,0 +1,9 @@
+.calc-body {
+  border-style: ridge;
+  border-color: #715111;
+  padding: 20px;
+  width: 220px;
+  margin: 0 auto;
+  background: #ffffe8;
+  border-radius: 20px;
+}
