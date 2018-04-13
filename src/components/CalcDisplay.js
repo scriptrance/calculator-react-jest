@@ -1,6 +1,6 @@
 /**
- * The CalcDisplay class is a component that renders as a text that holds
- * the appropriate calcualted value based on the buttons clicked
+ * The CalcDisplay class is a component that renders as a textarea that holds
+ * the appropriate calculated value based on the buttons clicked
  *
  */
 
@@ -13,7 +13,7 @@ export default class CalcDisplay extends Component{
 
   }
   /**
-  * This method is used to render and display the button component
+  * This method is used to render and display the textarea component
   *
   * @return textarea -  element displaying the appropriate calculated value
   *

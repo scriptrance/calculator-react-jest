@@ -9,7 +9,7 @@ export default class CalcButton extends Component{
   /**
   * This method is used to render and display the button component
   *
-  * @return inout - button element displaying the appropriate value
+  * @return input - button element displaying the appropriate value
   *
   */
   render(){
